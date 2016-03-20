@@ -4,5 +4,31 @@
 }
 
 body {
-	background: black;
+	background: green;
 }
+
+header {
+	background: url(https://newevolutiondesigns.com/images/freebies/dog-wallpaper-12.jpg);
+	background-size: cover;
+	height: 100vh;
+}
+
+.title {
+	position: absolute;
+	top: 20%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	color: white;
+	text-align: center;
+	font-size: 3em;
+}
+
+#main {
+	width: 80%;
+	margin: 20px auto;
+}
+
+
+
+
+
